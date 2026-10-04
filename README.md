@@ -6,9 +6,6 @@
 
 **AI-powered investor safety for Bharat**
 
-### ✨ [Launch the Interactive PARAKH AI Experience](https://newtonspaxe-source.github.io/SANGYAN_TEAM_ORION/)
-
-
 Detect suspicious financial content. Understand the red flags. Verify what matters. Take safer next steps.
 
 <br/>
